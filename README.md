@@ -1,7 +1,7 @@
 # Module-1 challenge
 
 Description:
-  This site is a modified version of a starter code freely given for instructional purposes. The original code was designed to teach 3 concepts: correct HTML, consolidated CSS, and alt names.
+  This site is a modified version of a starter code given for instructional purposes. The original code was designed to teach 3 concepts: correct HTML, consolidated CSS, and alt names.
 
 #HTML
   The original code was given with a broken link in the header, this was fixed by adding a id to the first anchor element located first in the header.
